@@ -1,0 +1,23 @@
+id: blockvectra
+name: BlockVectra MCP Server
+description: >
+  Hosted Streamable HTTP MCP server for agent workflows that need searchable
+  integration documentation, supported-chain discovery, status and pricing
+  lookups, and policy-bounded JSON-RPC reads. Keyless RPC access is restricted
+  to each chain’s published public methods; indexed Data API and account tools
+  require an API key.
+author:
+  name: BlockVectra
+  github: blockvectra
+repository: https://github.com/blockvectra/mcp
+transport:
+  - http-streaming
+category: Development
+tags:
+  - blockchain
+  - robinhood-chain
+  - rpc
+  - agent-tools
+  - streamable-http
+created_at: "2026-10-15T12:02:03.051Z"
+updated_at: "2026-10-15T12:02:03.051Z"
